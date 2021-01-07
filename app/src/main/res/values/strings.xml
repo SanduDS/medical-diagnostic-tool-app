@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Surgical Non Consumable Items App</string>
+    <string name="title_activity_slpash_screen">Surgical Non Consumable Items</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">version 0.1.0</string>
+</resources>
